@@ -1,4 +1,10 @@
 # csv-filter-challenge-public
+
+## How-To
+## Assumptions
+- The CSV file is formatted correctly (All fields are in the correct place)
+- That all input values are valid (names are strings, dates are in correct format, etc.)
+
 # Instructions
 1. Click "Use this template" to create a copy of this repository in your personal github account.  
 1. Using technology of your choice, complete assignment listed below.

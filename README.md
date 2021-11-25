@@ -2,7 +2,7 @@
 
 ## How-To
 1. To run the program, from the root directory, run `python3 Main.py <path to CSV file>`.
-2. It is important to remember to run this program with `python3` as opposed to `python` because it will crash if ran with `python`.
+2. It is important to remember to run this program with `python3` as opposed to `python` because it will crash if ran with `python` as earlier versions of Python did not use the `input()` function.
 3. The Main.py script will ask the user to select a field from the csv file, and then ask the user what they would like the filter value to be.
 4. The script will then output the records in the CSV file that contain the filter value, if there are any.
 5. For example, `python3 Main.py test.csv` will print the following:
